@@ -18,7 +18,4 @@ Olá, Sou Samuel Gonzaga! 💻
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SamuelGDN&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelGDN&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SamuelGDN&theme=discord&no-frame=true&no-bg=true&margin-w=4)
-
 
