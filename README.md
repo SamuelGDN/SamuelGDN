@@ -1,8 +1,8 @@
 # About Me :
-Olá, Sou Samuel Gonzaga! 💻
+Hi, I'm Samuel Gonzaga! 💻
 
-    🔭 Desenvolvedor de software com foco nas tecnologias da Web
-    🌱 Experiência em HTML, CSS, Javascript.
+    🔭 Software developer focusing on web technologies
+    🌱 Experience with HTML, CSS and JavaScript
 
 
 ## 🌐Socials
