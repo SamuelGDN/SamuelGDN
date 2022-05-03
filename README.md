@@ -2,7 +2,7 @@
 Hi, I'm Samuel Gonzaga! 💻
 
     🔭 Software developer focusing on web technologies
-    🌱 Experience with HTML, CSS and JavaScript
+    🌱 Experience with HTML | CSS | JavaScript
 
 
 ## 🌐Socials
